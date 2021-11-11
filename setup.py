@@ -1,16 +1,15 @@
 from setuptools import setup, find_packages
 
+with open("README.md", "r", encoding="utf-8") as fh:
+    long_description = fh.read()
+
 setup(name='pytaridx',
-      description='A package for creating, reading from, and wrting to indexed tar archives.',
-      version='1.0.0',
-      author=[
-        'Tomas Oppelstrup',
-        'Francesco Di Natale',
-      ],
-      author_email=[
-        'oppelstrup2@llnl.gov',
-        'dinatale3@llnl.gov',
-      ],
+      description='A package for creating, reading from, and writing to indexed tar archives.',
+      long_description=long_description,
+      long_description_content_type="text/markdown",
+      version='1.0.1',
+      author='Tomas Oppelstrup',
+      author_email='oppelstrup2@llnl.gov',
       # SPDX-License-Identifier: MIT
       license='MIT',
       entry_points={
@@ -24,6 +23,7 @@ setup(name='pytaridx',
       install_requires=[],
       classifiers=[
         'Development Status :: 3 - Alpha',
+        "License :: OSI Approved :: MIT License",
         'Intended Audience :: Developers',
         'Operating System :: Unix',
         'Programming Language :: Python',
