@@ -16,4 +16,5 @@ tests/indextest.py. The simplest way to run the tests is by e.g.:
 
 This software is distributed under the MIT license; see the file
 "LICENSE" for details. This software was developed at the Lawrence
-Livermore National Laboratory; see the file "NOTICE" for details.
+Livermore National Laboratory and has the release number
+LLNL-CODE-826782; see the file "NOTICE" for details.
