@@ -7,6 +7,8 @@
 # December 11, 2018. Updated to support python 3 and to become a
 # module by Francesco DiNatale.
 #
+# SPDX-License-Identifier: MIT
+#
 # Interface functions:
 #
 #     itf = IndexedTarFile()

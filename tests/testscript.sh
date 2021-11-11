@@ -2,6 +2,8 @@
 
 # Written by Tomas Oppelstrup as part of the DOE/NCI Pilot-2 project.
 
+# SPDX-License-Identifier: MIT
+
 # Bash script that runs some correctness tests on the pytaridx
 # module. Tests are performed both using python2 and pytthon 3.
 

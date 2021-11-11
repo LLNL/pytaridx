@@ -11,6 +11,8 @@ setup(name='pytaridx',
         'oppelstrup2@llnl.gov',
         'dinatale3@llnl.gov',
       ],
+      # SPDX-License-Identifier: MIT
+      license='MIT',
       entry_points={
         'console_scripts': [
                 'pytaridx = pytaridx.main:main',

@@ -1,6 +1,8 @@
 ## Written by Tomas Oppelstrup as part of the DOE/NCI Pilot-2 project.
 ## Updated to support python 3 by Francesco DiNatale.
 
+# SPDX-License-Identifier: MIT
+
 import sys
 import pytaridx
 

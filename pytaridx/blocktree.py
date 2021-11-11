@@ -1,5 +1,8 @@
 ## Written by Tomas Oppelstrup as part of the DOE/NCI Pilot-2 project.
 ## Updated to support python 3 and to become a module by Francesco DiNatale.
+
+# SPDX-License-Identifier: MIT
+
 import os
 
 from .block import Block

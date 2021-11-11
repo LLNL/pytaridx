@@ -13,3 +13,7 @@ A script for correctness checking and examples of use can be found in
 tests/indextest.py. The simplest way to run the tests is by e.g.:
    cd test
    ./testscript.sh
+
+This software is distributed under the MIT license; see the file
+"LICENSE" for details. This software was developed at the Lawrence
+Livermore National Laboratory; see the file "NOTICE" for details.

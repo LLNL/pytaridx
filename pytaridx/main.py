@@ -1,5 +1,7 @@
 ## Written by Francesco DiNatale as part of the DOE/NCI Pilot-2 project.
 
+# SPDX-License-Identifier: MIT
+
 ## This is a script/program to (re-)build indexes for tar files, then
 ## usable with pytaridx. This program supports parallelism using the
 ## multiprocessing module in python, and can build several in
